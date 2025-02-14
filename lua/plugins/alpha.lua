@@ -35,7 +35,7 @@ return {
 		}
 
 		local function footer()
-			return "Mohammed Babiker Babai"
+			return "Samosa"
 		end
 		dashboard.section.footer.val = footer()
 
