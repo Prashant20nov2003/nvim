@@ -41,7 +41,6 @@ return {
 
     -- Define a table of themes
     local themes = {
-      onedark = onedark_theme,
       nord = 'nord',
     }
 
